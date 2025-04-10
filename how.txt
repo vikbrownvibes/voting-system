@@ -1,0 +1,8 @@
+how to use 
+vote0 to vote for Trump
+
+Use  1 to vote for Kamala
+
+Check results with getCandidate(0) and getCandidate(1)
+
+btw im a new dev so dont expect me to be good for now
